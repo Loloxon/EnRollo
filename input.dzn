@@ -1,0 +1,4 @@
+n_students = 9;
+n_topics = 10;
+single_topics_ids = {2,4,6};
+student_wants_list = [{1,2,3,7},{3,5},{},{},{},{},{},{},{}];

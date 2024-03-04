@@ -1,0 +1,6 @@
+output ["\"output\": {","\"default\": ",showJSON(concat(((["Students with topic they didn't want: "++show(n_students-score)]++["\n"])++["student;   topic;\n"])++[join(";\n",[(show(S)++";         ")++show(student_gets[S]) | S in Student])++";"])),", \"raw\": ",showJSON(concat(((["Students with topic they didn't want: "++show(n_students-score)]++["\n"])++["student;   topic;\n"])++[join(";\n",[(show(S)++";         ")++show(student_gets[S]) | S in Student])++";"])),"}, \"sections\": [\"default\", \"raw\"]"];
+int: n_students = 32;
+set of int: Student = 1..32;
+array [Student] of int: is_happy;
+int: score = sum([is_happy[S] | S in Student]);
+array [Student] of int: student_gets;

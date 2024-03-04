@@ -1,0 +1,20 @@
+n_students = 5;
+n_topics = 3;
+single_topics_ids = {1};
+student_preferences = array2d(Student, Preference, [
+        1, 2, 3, 0, 0, 0,
+        1, 2, 3, 0, 0, 0,
+        1, 2, 3, 0, 0, 0,
+        1, 2, 3, 0, 0, 0,
+        1, 2, 3, 0, 0, 0,
+]);
+
+student_weights = array2d(Student, Preference, [
+        10, 0, 0, 0, 0, 0,
+        10, 0, 0, 0, 0, 0,
+        10, 0, 0, 0, 0, 0,
+        10, 0, 0, 0, 0, 0,
+        10, 0, 0, 0, 0, 0,
+]);
+
+topics_fixed = [0, 0, 0, 0, 1];
