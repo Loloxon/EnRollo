@@ -68,17 +68,16 @@
 74	Porównanie i analiza implementacji procesora RISC-V dla układów FPGA o ograniczonych zasobach
 75	Przegląd istniejących ataków na algorytmy postkwantowe możliwych do wykonania za pomocą symulatorów wyżarzacza kwantowego
 76	Redukcja wpływu szumu na skuteczność metod uczenia maszynowego dla zadań nie-klasyfikacyjnych
-77	Porównanie metod uczenia maszynowego do klasyfikacji danych kategorycznych
 78	Analiza skuteczności technik predykcji w zależności od dostępności informacji w grafie danych.
 79	Predykcja parametrów mechanicznych materiałów z użyciem uczenia maszynowego
 80	Analiza obrazów w celu identyfikacji parametrów materiałów odlewniczych
 81	Ewaluacja porównacza metod wykrywania anomalii w lifelong learningu
 82	Zastosowanie uczenia maszynowego w aktualnych zagadnieniach problemu wykrywania włamań
-83
-84
-85
-86
-87
+83	Identyfikacja osób na sekwencjach obrazów w oparciu o cechy chodu
+84	Kwalifikacja niepewności i modelowanie zastępcze z wykorzystaniem metod uczenia maszynowego
+85	Sercowo-naczyniowe symulacje w celu wspomagania badań nad chorobami oraz planowaniem leczenia.
+86	Opracowanie modelu mikrobiomu. Mechanistyczne modelowanie sieciowe wpływu metabolitu na mikrobiom w ustach.
+87	Eliminacja metodami uczenia maszynowego efektu poślizgu stóp w animacjach 3D postaci ludzkich
 88
 89
 90
@@ -90,10 +89,10 @@
 96
 97
 98
-
 16	Eksperymentalne AI do strategicznych gier karcianych
 18	Przewidywanie własności molekuł z użyciem złożonych fingerprintów molekularnych i sieci GNN
 22	Weryfikacja, walidacja i szacowanie niepewności dla modeli obliczeniowych
 25	Zastosowanie predykcyjnego uczenia maszynowego w projektowaniu gier pen & paper RPG
 39	Zastosowanie sieci LSTM do predykcji wpływu zmian struktury kapitałowej i majątkowej na wartość rynkową przedsiębiorstwa
 55	MoAM - Model autonomicznego zarządzania komponentów środowiska wykonawczego Cloud-native
+77	Porównanie metod uczenia maszynowego do klasyfikacji danych kategorycznych
