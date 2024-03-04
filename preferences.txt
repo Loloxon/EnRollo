@@ -1,0 +1,161 @@
+Imię	Nazwisko	Komentarz	Temat	Punkty	Temat	Punkty	Temat	Punkty	Temat	Punkty	Temat	Punkty	Temat	Punkty	Najwyższa l. punktów
+Aksamit	Piotr														0
+Asimowicz	Mateusz		58	10											10
+Badura	Michał		56	10	21	10	68	10							10
+Bąkowska	Judyta		51	10	53	9	65	7							10
+Bednarczyk	Julia														0
+Białożyt	Michał		48	10	47	8	36	6	60	4	28	2			10
+Błachut	Bogusław		33	10	36	9	34	9	35	1	49	1			10
+Bocheńczyk	Dominika	dogadywany przed zapisami, zgoda ale żeby było sprawiedliwe miejsce dla innych	5	10											10
+Bocheńska	Gabriela		61	10	9	8	70	4							10
+Bochnak	Tomasz	Temat dogadany	77												0
+Brzezińska	Zuzanna		57	8	46	10	62	4	67	8					10
+Bodziony	Adrianna		72	10	53	10									10
+Budny	Jacek														0
+Budziak	Szymon		2	10	45	9	76	9							10
+Burzak	Wojciech														0
+Chrobot	Adrian		74	10	24	8	28	6	6	3		2		1	10
+Chwast	Bartłomiej		27	10	6	10	23	10							10
+Chyczyński	Jan		35	10	14	10	34	10							10
+Cichocki	Jakub		69	10	70	10	46	6							10
+Cieśla	Roksana	Temat dogadany	-1												0
+Ciołczyk	Dominik		6	10	71	10	32	10							10
+Cudak	Jakub														0
+Cyganek	Mateusz		51	10	62	10	54	10							10
+Czarnik	Piotr		64	10	65	9	63	7	59	4					10
+Ćwikła	Adam		45	10	49	8	44	8	66	4					10
+Dębowska	Katarzyna		14	10	44	10									10
+Domogała	Jakub														0
+Doncer	Barbara														0
+Dyl	Klaudia		10	10	12	9	8	8							10
+Dyląg	Inga														0
+Dziwak	Paulina	Temat dogadany	-1												0
+Etrych	Monika		5	10	11	10	51	3	54	7					10
+Flisak	Ewelina		42	10	43	8	67	4	66	3	57	3	75	2	10
+Franczyk	Anna		62	10	29	8	26	5	27	4	46	2	69	1	10
+Furga	Mateusz		74	10	43	10	75								10
+Główczyk	Katarzyna		75	7	68	10	38	10	54	3					10
+Gołębiowski	Szymon		45	10	12	5	8	3	34	3	35	2	33	2	10
+Grzesik	Dominik		69	10	19	10	14	5	5	5					10
+Hec	Sebastian		44	10	45	9	33	9							10
+Herman	Aleksandra		8	10	10	5	12	5	11	5					10
+Idec	Szymon	Temat dogadany	16												0
+Jamiołkowski	Bartłomiej	Temat dogadany	39												0
+Jasiński	Wojciech	Temat z poza puli	-1												0
+Jurzec	Karol		41	10	4	10	6	10							10
+Karbowski	Jakub	Temat dogadany	16												0
+Kaźmierczak	Gabriel		5	10	26	10	4	10							10
+Kicinger	Urszula		1	10	69	8	75	6							10
+Kiełkowski	Michał														0
+Kitka	Filip														0
+Kleszcz	Mateusz		36	10	33	10	40	6	82	3	6	1			10
+Klimek	Mikołaj														0
+Kluczewski	Radosław		30	10	31	8	3	6	1	3	42	3			10
+Kłusek	Kacper		8	2	32	2	37	2	71	10	9	10	73	1	10
+Kopeć	Dawid		48	10	47	8	36	6	60	4	28	2			10
+Kőpplinger	Piotr		54	10	71	9	60	5	24	5					10
+Korohoda	Nikodem		14	10	68	4	35	8	33	3	56	5			10
+Kosmydel	Jakub		31	10	30	10	32	9	24	1					10
+Królicki	Dariusz	Temat dogadany	-1												0
+Królikowska	Magdalena		66	10	67	10	35	2	33	3	34	2	54	3	10
+Kruczek	Bartłomiej	Temat dogadany nie będący na liście	-1												0
+Krzemiński	Konrad		31	10	30	10	21	10							10
+Kucharz	Bartosz														0
+Kulczycki	Adam														0
+Kurdyła	Dawid		24	10	29	8	26	5							10
+Kuś	Antonina	Temat dogadany	-1												0
+Leśniak	Julian		21	10	20	10	36	10							10
+Liberda	Dawid	Temat dogadany	-1												0
+Ludynia	Piotr	Temat dogadany z doktorem Czechem jeszcze za czasów inżynierki (kontynuacja)	18												0
+Łącki	Wojciech		56	10	33	9	17	8	40	3					10
+Łopaciński	Mateusz														0
+Łubkowski	Jakub		37	10	36	10	50	8							10
+Magiera	Piotr		42	10											10
+Marciniak	Bianka		51	10	53	9									10
+Markowicz	Karol		10	10	12	8	11	6	49	6					10
+Mazur	Mateusz		56	10	37	8	44	6							10
+Mech	Martyna		37	10	36	8	34	6	40	5	59	1			10
+Meszka	Dorota														0
+Miklewska	Ewa														0
+Mikuła	Marcin		37	10	69	10	19	5	26	5					10
+Misztal	Sebastian		51	10	19	10	21	10							10
+Miśkowicz	Krzysztof	Temat dogadywany	-1												0
+Miśkowiec	Kamil	Temat dogadany	55												0
+Morawski	Norbert		74	10											10
+Mrowiec	Jan		20	5	38	3	26	4	21	5	51	3			5
+Nessel	Maciej		40	10	51	10	58	10							10
+Neugebauer	Cyprian		1	10											10
+Nowicki	Błażej														0
+Oleniacz	Nikodem		17	10	33	10	24	10							10
+Ostafin	Tomasz	Temat spoza puli wstępnie zarezerwowany	-1												0
+Papiernik	Bogumiła	temat spoza puli	-1												0
+Paruch	Edyta		70	10	37	10	35	10							10
+Paszkiewicz	Szymon	Kontynuacja Inżynierki	7	10											10
+Pelc	Ewa		9	10											10
+Piwar	Gabriela		51	5	10	10	56	2	11	8	8	5			10
+Piwowarski	Dariusz		4	10	5	10	61	10							10
+Prokop	Jan														0
+Przybytek	Wojciech		29	10	26	10	27	4	21	3	62	3			10
+Pytel	Aleksander														0
+Radek	Jakub		70	10	37	10	34	10							10
+Ramęda	Kinga	Temat spoza puli	-1												0
+Rodzoń	Rafał														0
+Rodzoń	Jan														0
+Roman	Przemysław	Temat dogadany z doktorem Czechem jeszcze za czasów inżynierki - kontynuacja	55												0
+Ryczek	Piotr	Temat spoza puli	-1												0
+Ryś	Szymon		58	10											10
+Siedlarczyk	Ewa		40	10	35	8	5	8							10
+Simon	Oskar	Mam swój temat	-1												0
+Sitek	Igor		17	10	29	9	34	2	35	9					10
+Skowron	Mateusz		23	10	27	10	26	7	29	2	7	1			10
+Skrzypczak	Paulina		53	10	68	10									10
+Sławęcki	Piotr	mam swój temat dogadany	-1												0
+Słota	Szymon		68	10			50	10							10
+Smaliakou	Ivan		41	10	15	10	72	10							10
+Sobczyk	Kacper	Mam identyczny temat (38) do projektu z Modelowania i symulacji systemów. Pisałem do Dreżewskiego i zgodził się na połączenie. Nie wiem czy można to uznać za 'temat dogadany'	38	10	37	10	64	9	65	1					10
+Socała	Piotr		23	10	27	10	20	3	19	3	26	3	7	1	10
+Sordyl	Jakub														0
+Spryszyński	Marcel		62	10	29	8	26	5	27	4	46	2	69	1	10
+Spyra	Przemysław		5	10	64	10	71	10							10
+Stachniak	Aleksandra	Temat dogadany	-1												0
+Staniszewski	Adam	Mam swój temat	-1												0
+Starzyk	Andrzej		20	10	19	10	78	6	3	4					10
+Steczkiewicz	Paweł		57	10	66	10	67	10							10
+Stefanik	Michał	Temat dogadany	18												0
+Strojewski	Jakub	Temat spoza puli wstępnie zarezerwowany	-1												0
+Szewc	Michał		45	10	49	8	59	8	66	4					10
+Szmelich	Wojciech		54	10	42	10	4	8							10
+Szulc	Tobiasz		56	7	72	8	24	7	32	8					8
+Śliwa	Jolanta	Zarezerwowane (kontynuacja pracy inżynierskiej)	25												0
+Świstowski	Michał		74	10	28	8	43	8							10
+Tekielski	Rafał		33	10	29	10	17	10							10
+Tenerowicz	Sławomir		3	10	30	10	31	10							10
+Tkocz	Maria														0
+Tomalczyk	Dominik		8	10	12	10	10	4	11	4	40	1	14	1	10
+Trzebuniak	Michał														0
+Tworek	Damian														0
+Urbańczyk	Piotr	Temat spoza puli (zarezerwowany)	-1												0
+Van-Selow	Piotr		51	10	62	10	54	10							10
+Wajdzik	Bartłomiej		5	10	71	10	76	10							10
+Wala	Łukasz		74	10	24	10									10
+Wardyński	Marcin		43	10											10
+Wejman	Mateusz		35	10	34	10	36	10							10
+Węglik	Przemysław	Temat spoza puli	-1												0
+Wierciak	Elżbieta														0
+Wiśniewski	Bartłomiej	Czekam na odpowiedź w kwestii własnego tematu	56	5	52	1	34	10	68	9	71	5			10
+Witek	Weronika	Temat dogadany	-1												0
+Witek	Piotr														0
+Wójcik	Michał	Temat spoza puli wstępnie zarezerwowany	-1												0
+Wrona	Karol		60	10	61	10	6	10							10
+Wyrębkiewicz	Karol		53	10	68	10									10
+Yahorava	Anastasiya		54	10	73	10	82	9	81	1					10
+Zając	Łukasz		19	10	20	10									10
+Zakrocki	Igor		82	10	8	10	58	6							10
+Zaręba	Paweł	Temat dogadany	22	10											10
+Zbiegień	Bartosz		63	10	35	10	34	10							10
+Ziebura	Jędrzej	temat dogadany - nie zawiera się w liście	-1												0
+Ziętek	Jan		76	10											10
+Źróbek	Karolina		45	10	44	10	49	6	68	4					10
+Żarska	Kinga														0
+Żukowska	Ewa		68	10	2	10	8	5	10	5					10
+Żychowicz	Szymon		13	10	4	9	62	6	17	5					10

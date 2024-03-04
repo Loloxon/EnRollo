@@ -1,0 +1,99 @@
+1	Routing w modelach Mixture of Experts
+2	Dynamika sieci wysokiego rzędu dla różnych nieprawidłowo sfałdowanych białek w chorobie Alzheimera
+3	Własności komitetów spełniających własność usprawiedliwionej reprezentacji
+4	Optymalizacja problemów dyskretnych za pomocą metod inspirowanych biologicznie
+5	Algorytmy grafowe w przetwarzaniu informacji wyekstrahowanych z tekstu
+6	Heterogeniczne zasoby w klastrach z współdzielonym stanem
+7	Przetwarzanie strumieniowe grafów w środowisku big data
+8	Analiza obrazów medycznych w oparciu o sieci neuronowe
+9	Rozpoznawanie akcji człowieka w oparciu o pomiary sensoryczne
+10	Interpretacja predykcji modeli neuronowych na danych medycznych
+11	Uczenie ciągłe sieci neuronowych
+12	Uczenie reprezentacji w głębokich sieciach neuronowych
+13	Równoległe i rozproszone metaheurystyki optymalizacyjne z desynchronizacją
+14	Socjo-kognitywne modele obliczeniowe
+15	Somatyczne aberracje genetyczne w komórkach zdrowego dawcy CD5+
+17	System detekcji anomalii w danych opisujących przepływy w sieciach wodociągowych
+19	Wykorzystanie metod uczenia maszynowego w animacji postaci 3D bez znajmości pozycji docelowej
+20	Wykorzystanie metod uczenia maszynowego w animacji postaci 3D przy znajmości pozycji docelowej
+21	Szyfrowanie homomorficzne dla aplikacji biomedycznych
+23	Obliczenia wsadowe w modelu cloud-native
+24	Optymalizacja implementacji modeli uczenia maszynowego w architekturach bezserwerowych
+26	Bezserwerowe obliczenia naukowe
+27	Obserwowalność obliczeń rozproszonych
+28	Przewidywanie charakterystyki wykonawczej zadań obliczeniowych
+29	Obliczenia w środowisku wielochmurowym
+30	Algorytmy dla budżetów obywatelskich z ograniczonymi kosztami
+31	Strategiczny wybór graczy w turniejach
+32	Krótko i długoterminowa predykcja zużycia zasobów chmur obliczeniowych z wykorzystaniem uczenia głębokiego
+33	Zastosowanie wielokryterialnych algorytmów ewolucyjnych do planowania trasy statku przemieszczającego się w środowisku niestacjonarnym
+34	Zastosowanie wielokryterialnych algorytmów ewolucyjnych do podziału zadań w grupie dronów działających w środowisku niestacjonarnym
+35	Zastosowanie wielokryterialnych algorytmów ewolucyjnych do planowania trasy grupy dronów w środowisku niestacjonarnym
+36	Zastosowanie wielomodalnych agentowych algorytmów ewolucyjnych do optymalizacji deterministycznego modelu wzrostu wartości przedsiębiorstwa
+37	Zastosowanie sieci RBF do predykcji wpływu zmian struktury kapitałowej i majątkowej na wartość rynkową przedsiębiorstwa
+38	Zastosowanie konwolucyjnych sieci neuronowych do predykcji wpływu zmian struktury kapitałowej i majątkowej na wartość rynkową przedsiębiorstwa
+40	Algorytmy długoterminowej oceny jakości środowiska
+41	Ocena złożoności obliczeniowej i pamięciowej symulacji sieci neuromorficznych na urządzeniach o ograniczonych zasobach
+42	Zastosowanie dowodów z wiedzą zerową na blockchain
+43	Modyfikacja szyfru ChaCha20 pod kątem współczesnych architektur komputerowych
+44	Robotyczna semantyczna interpretacja poleceń głosowych
+45	Detekcja trójwymiarowych afordancji i cech obiektów z przy użyciu uczenia głębokiego
+46	Współczesne protokoły ochrony danych bazujące na kryptografii wizualnej
+47	Skuteczność metod opartych na atrybucji cech (FAE) – kryteria oceny i metryki
+48	Wyjaśnialna sztuczna inteligencja – metody oparte na atrybucji cech (FAE)
+49	Implementacja nowych operatorów mutacji i crossing-over w środowisku ewolucji sieci neuronowych
+50	Opracowanie narzędzia prezentującego akcje podejmowanych przez agenta DRL do zarządzania infrastrukturą chmurową
+51	Wizualna eksploracja danych dla bardzo dużych zbiorów danych
+52	Opracowanie automatycznie zarządzanego środowiska wykonawczego dla systemu Pegasus
+53	Ocena jakości/wiarygodności dla dużych zbiorów danych ekonomicznych
+54	Lekkie algorytmy uczenia maszynowego w oparciu o klasyczne metody ekstrakcji cech
+56	Rekonstrukcja powierzchni tułowia na podstawie nagrań z kamery 3D
+57	Ataki na kryptosystemy postkwantowe oparte o problemy izogeni krzywych eliptycznych
+58	Równoważenie obciążenia i skalowalność symulacji ruchu miejskiego dla złożonych modeli rzeczywistych metropolii
+59	Solver FEM do równań różniczkowych
+60	Platforma do automatyzacji procesów Machine Learning Engineering oraz Machine Learning Operations w środowiskach zamkniętych
+61	Zestaw narzędzi do wizualizacji i analizy modelowania i symulacji dynamiki nowotworu z wykorzystaniem metody supermodelowania
+62	Autonomiczność mikroserwisów - stosowane praktyki oraz wyzwania
+63	Szybkie symulacje układów dyskretnych wykorzystujące metody uczenia maszynowego i grafowe sieci neuronowe.
+64	Agnostyczne metody przyspieszania uczenia głębokich sieci neuronowych. Propagacja wsteczna czy może coś innego?
+65	Metodologia szybkich symulacji wykorzystujących uczenie maszynowe i głębokie sieci neuronowe.
+66	Ataki na kryptosystemy postkwantowe oparte o problemy MQ
+67	Ataki na kryptosystemy postkwantowe oparte o kody korekcyjne
+68	Lokalizacja aktywności mózgu - problem teoriografowy
+69	Wizualne kody autoryzacji personalnej oparte o zróżnicowane poziomy wiedzy
+70	Zaawansowane protokoły steganograficzne w procesach przesyłania sekretu
+71	Odkrywanie danych z wykorzystaniem wybranych modeli LLM dla potrzeb realizacji rozległych systemów zarządzania danymi
+72	Wyzwania związane z implementacją technologii blockchain w systemach kontroli dostępu do danych
+73	Algorytmy ML oparte o kolaboracyjne samplowanie w zastosowaniu do wykrywania anomali na urządzeniach o ograniczonych zasobach
+74	Porównanie i analiza implementacji procesora RISC-V dla układów FPGA o ograniczonych zasobach
+75	Przegląd istniejących ataków na algorytmy postkwantowe możliwych do wykonania za pomocą symulatorów wyżarzacza kwantowego
+76	Redukcja wpływu szumu na skuteczność metod uczenia maszynowego dla zadań nie-klasyfikacyjnych
+77	Porównanie metod uczenia maszynowego do klasyfikacji danych kategorycznych
+78	Analiza skuteczności technik predykcji w zależności od dostępności informacji w grafie danych.
+79	Predykcja parametrów mechanicznych materiałów z użyciem uczenia maszynowego
+80	Analiza obrazów w celu identyfikacji parametrów materiałów odlewniczych
+81	Ewaluacja porównacza metod wykrywania anomalii w lifelong learningu
+82	Zastosowanie uczenia maszynowego w aktualnych zagadnieniach problemu wykrywania włamań
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+
+16	Eksperymentalne AI do strategicznych gier karcianych
+18	Przewidywanie własności molekuł z użyciem złożonych fingerprintów molekularnych i sieci GNN
+22	Weryfikacja, walidacja i szacowanie niepewności dla modeli obliczeniowych
+25	Zastosowanie predykcyjnego uczenia maszynowego w projektowaniu gier pen & paper RPG
+39	Zastosowanie sieci LSTM do predykcji wpływu zmian struktury kapitałowej i majątkowej na wartość rynkową przedsiębiorstwa
+55	MoAM - Model autonomicznego zarządzania komponentów środowiska wykonawczego Cloud-native
